@@ -1,4 +1,4 @@
-### Oi,pode me chamar de Cazuza, sou um DevOps trilhando o caminho para me tornar um Platform Engineer
+### Oi, pode me chamar de Cazuza, sou um DevOps trilhando o caminho para me tornar um Platform Engineer
 
 <div>
 <a href="https://github.com/higorcazuza81/github-readme-stats">
