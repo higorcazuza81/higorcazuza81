@@ -1,15 +1,18 @@
-### Oi, pode me chamar de Cazuza, sou um DevOps trilhando o caminho para me tornar um Platform Engineer
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=97E029&height=120&section=header"/>
 
-<div>
-<a href="https://github.com/higorcazuza81/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=higorcazuza81&show_icons=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/higorcazuza81/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorcazuza81&layout=compact&theme=chartreuse-dark"/>
-</a>
+### Oi, pode me chamar de Cazuza, sou um DevOps trilhando o caminho para me tornar um Platform Engineer
+###
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=higorcazuza81&bg_color=0d1117&color=ffffff&line=97e029&point=0091eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=higorcazuza81&show_icons=true&count_private=true&hide_border=true&title_color=97E029&icon_color=0097EB&text_color=c9d1d9&bg_color=0d1117" alt="Higor Cazuza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorcazuza81&layout=compact&hide_border=true&title_color=97E029&text_color=0097EB&bg_color=0d1117" />
 </div>
 
-###
+
+
+### Main skills:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cazuza-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -22,3 +25,4 @@
   <img align="center" alt="Cazuza-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=97E029&height=120&section=footer"/>
