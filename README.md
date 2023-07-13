@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=97E029&height=120&section=header"/>
 
-### Oi, pode me chamar de Cazuza, sou um DevOps trilhando o caminho para me tornar um Platform Engineer
+## Oi, pode me chamar de Cazuza, sou um DevOps trilhando o caminho para me tornar um Platform Engineer
 
-###
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=higorcazuza81&bg_color=0d1117&color=ffffff&line=97e029&point=0091eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -12,7 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorcazuza81&layout=compact&hide_border=true&title_color=97E029&text_color=0097EB&bg_color=0d1117" />
 </div>
 
-
+##
 
 ### Main skills:
 
@@ -27,7 +26,16 @@
   <img align="center" alt="Cazuza-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-###
+##
+
+### Contacts:
+
+<div>
+ <a href = "mailto:higorcazuza@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/higorcazuza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
