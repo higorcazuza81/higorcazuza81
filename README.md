@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=97E029&height=120&section=header"/>
 
-## Hi, you can call me Cazuza. I'm a software engineer and Java geek. 🖖🏾
+## Hi, call me Cazuza, building data platform in the cloud ☁️🛠️
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=higorcazuza81&bg_color=0d1117&color=ffffff&line=97e029&point=0091eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
