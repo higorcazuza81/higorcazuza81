@@ -1,3 +1,6 @@
+<!-- Imagem de capa -->
+<img src="https://github.com/higorcazuza81/higorcazuza81/blob/main/image.png" alt="Capa" style="width: 100%; height: auto;"/>
+<br><br>
 
 > **"Without data, you're just another person with an opinion."**
 - *W. Edwards Deming*
