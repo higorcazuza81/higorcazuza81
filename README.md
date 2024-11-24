@@ -1,46 +1,47 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A1A1A1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A1A1A1&size=28&center=true&vCenter=true&width=1000&lines=“Without+data,+you're+just+another+person+with+an+opinion.”+;)](https://git.io/typing-svg)
+> **"Without data, you're just another person with an opinion."**
+- *W. Edwards Deming*
 
 <br><br>
 
 ---
 
 ## About Me
-Hello! I'm **Higor Cazuza**, an aspiring Quantitative Analyst with a passion for financial data analysis, mathematical modeling, and leveraging statistics to solve complex problems. Currently focused on improving my skills in SQL, Python, and data visualization, I aim to bring impactful solutions to the financial market.
+Hello! I'm **Higor Cazuza**, a Statistician passionate about financial data analysis and quantitative modeling. I specialize in leveraging statistical tools, machine learning, and Python to solve complex financial problems. My work focuses on developing models for predictive analytics, risk assessment, and optimization. I am continuously expanding my expertise in advanced techniques, including machine learning and deep learning, to contribute to the development of cutting-edge financial algorithms.
 
 <br><br>
 
 ---
 
 ## Core Skills
+- **Financial Risk Management**  
+  Building and applying risk models to assess and mitigate financial risks.
 
-- **Financial Risk Analysis**  
-  Analyzing and managing financial risks using advanced models.  
+- **Predictive and Prescriptive Modeling**  
+  Developing forecasting models and recommending actionable strategies.
 
-- **Predictive Modeling**  
-  Developing models to predict outcomes and trends.  
-
-- **Statistical Inference**  
-  Drawing conclusions and making decisions based on data analysis.  
+- **Advanced Statistical Inference**  
+  Drawing insights from complex datasets and applying inferential statistics to decision-making.
 
 - **Exploratory Data Analysis (EDA)**  
-  Investigating datasets to uncover patterns, anomalies, and insights.  
+  Investigating datasets to uncover patterns, anomalies, and insights.
 
 - **Mathematical Optimization**  
   Applying optimization techniques to improve decision-making processes.
+
 
 <br><br>
 
 ---
 
 ## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -49,6 +50,10 @@ Hello! I'm **Higor Cazuza**, an aspiring Quantitative Analyst with a passion for
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2C5FA5?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 <br><br>
 
@@ -67,11 +72,12 @@ Below is a snapshot of the programming languages I frequently work with in my pr
 
 ## Featured Projects
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=Data-Analytics-FIAP-Projects&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=courses&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=template-pojeto-data-science&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
 </a>
+
 
 <br><br>
 
@@ -85,10 +91,12 @@ Below is a snapshot of the programming languages I frequently work with in my pr
   <a href="https://medium.com/@higorcazuza" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </div>
 
+
 <br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=higorcazuza81&icon=1&color=12)](https://visitcount.itsvg.in) 
+
 
 
 <br><br>
