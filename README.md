@@ -18,7 +18,7 @@ You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I
 - **Big Data**: Implementação de soluções para processar e analisar grandes volumes de dados, aproveitando tecnologias de Big Data, como Apache Spark e bancos de dados NoSQL (MongoDB, PostgreSQL).
 - **ETL (Extract, Transform, Load)**: Desenvolvimento de processos ETL automatizados para garantir que dados brutos sejam transformados e integrados de forma eficiente em sistemas analíticos.
 - **SQL & NoSQL Databases**: Expertise em SQL (PostgreSQL, MySQL) e NoSQL (MongoDB) para manipulação e análise de dados em diversos contextos.
-- **Programming & Scripting**: Domínio de Python e Java para o desenvolvimento de soluções escaláveis e eficientes para processamento de dados e automação de tarefas.
+- **Programming & Scripting**: Domínio de Python para o desenvolvimento de soluções escaláveis e eficientes para processamento de dados e automação de tarefas.
 
 <br><br>
 
@@ -26,7 +26,6 @@ You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I
 
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
