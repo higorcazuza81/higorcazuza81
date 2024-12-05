@@ -69,7 +69,7 @@ Below is a snapshot of the programming languages I frequently work with in my pr
 
 ---
 
-## 📬 Contacts  
+
 ## 📬 Contacts  
 <div>
   <a href="mailto:higorcazuza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
