@@ -15,7 +15,7 @@ You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I
 - **Cloud Infrastructure**: Proficient in cloud solutions with AWS and Azure to create robust and scalable environments for large data volumes.
 - **Data Pipelines**: Building and maintaining efficient data pipelines using Apache Spark, Python, and SQL to integrate, transform, and optimize data.
 - **Big Data**: Implementing solutions to process and analyze large data volumes using Big Data technologies like Apache Spark and NoSQL databases (MongoDB, PostgreSQL).
-- **SQL & NoSQL Databases**: Expertise in SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) for data manipulation and analysis across different contexts.
+- **SQL & NoSQL Databases**: Expertise in SQL (PostgreSQL) and NoSQL (MongoDB) for data manipulation and analysis across different contexts.
 - **Programming & Scripting**: Mastery of Python for developing scalable and efficient solutions for data processing and task automation.
 
 <br><br>
