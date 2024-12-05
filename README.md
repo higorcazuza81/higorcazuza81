@@ -1,7 +1,6 @@
 <!-- Imagem de capa -->
 <img src="https://github.com/higorcazuza81/higorcazuza81/blob/main/image.webp" alt="Capa" style="width: 100%; height: 300px; object-fit: cover;"/>
 
-
 ---
 
 ## 🧑‍💻 About Me  
@@ -12,13 +11,12 @@ You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I
 ---
 
 ## 🚀 Core Skills  
-- **Data Engineering & Architecture**: Expertise em construção e otimização de pipelines de dados e plataformas escaláveis, utilizando boas práticas de engenharia de dados e arquitetura de sistemas.
-- **Cloud Infrastructure**: Proficiência em soluções de nuvem com AWS e Azure para criar ambientes robustos e escaláveis para grandes volumes de dados.
-- **Data Pipelines**: Construção e manutenção de pipelines de dados eficientes usando Apache Spark, Python e SQL para integrar, transformar e otimizar dados.
-- **Big Data**: Implementação de soluções para processar e analisar grandes volumes de dados, aproveitando tecnologias de Big Data, como Apache Spark e bancos de dados NoSQL (MongoDB, PostgreSQL).
-- **ETL (Extract, Transform, Load)**: Desenvolvimento de processos ETL automatizados para garantir que dados brutos sejam transformados e integrados de forma eficiente em sistemas analíticos.
-- **SQL & NoSQL Databases**: Expertise em SQL (PostgreSQL, MySQL) e NoSQL (MongoDB) para manipulação e análise de dados em diversos contextos.
-- **Programming & Scripting**: Domínio de Python para o desenvolvimento de soluções escaláveis e eficientes para processamento de dados e automação de tarefas.
+- **Data Engineering & Architecture**: Expertise in building and optimizing data pipelines and scalable platforms, utilizing best practices in data engineering and system architecture.
+- **Cloud Infrastructure**: Proficient in cloud solutions with AWS and Azure to create robust and scalable environments for large data volumes.
+- **Data Pipelines**: Building and maintaining efficient data pipelines using Apache Spark, Python, and SQL to integrate, transform, and optimize data.
+- **Big Data**: Implementing solutions to process and analyze large data volumes using Big Data technologies like Apache Spark and NoSQL databases (MongoDB, PostgreSQL).
+- **SQL & NoSQL Databases**: Expertise in SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) for data manipulation and analysis across different contexts.
+- **Programming & Scripting**: Mastery of Python for developing scalable and efficient solutions for data processing and task automation.
 
 <br><br>
 
@@ -34,11 +32,13 @@ You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-4B8BBE?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8C2C3C?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2C5FA5?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br><br>
 
@@ -56,24 +56,29 @@ Below is a snapshot of the programming languages I frequently work with in my pr
 ---
 
 ## 📂 Featured Projects  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=courses&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=template-pojeto-data-science&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=courses&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=template-pojeto-data-science&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
+  </a>
+</div>
 
 <br><br>
 
 ---
 
 ## 📬 Contacts  
+## 📬 Contacts  
 <div>
   <a href="mailto:higorcazuza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/higorcazuza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.kaggle.com/higorcazuza" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://www.hackerrank.com/profile/higorcazuza" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
   <a href="https://medium.com/@higorcazuza" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </div>
+
 
 <br><br>
 
