@@ -43,15 +43,13 @@ You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I
 <br><br>
 
 ---
-
 ## My Most Used Languages  
-Below is a snapshot of the programming languages I frequently work with in my projects related to data science and financial risk analysis.
+Below is a summary of the programming languages ​​I frequently work with in my data engineering projects.
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=higorcazuza81&layout=donut&langs_count=8&card_width=300&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0d1117&hide_title=true&text_color=ffffff" />
+<a href="https://github.com/higorcazuza81">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=higorcazuza81&layout=donut&langs_count=8&card_width=300&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0d1117&hide_title=true&text_color=ffffff&cache_seconds=1800" />
 </a>
 
-<br><br>
 
 ---
 
