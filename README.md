@@ -3,14 +3,14 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## About Me  
 You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I'm a Data Geek who builds pipelines and data platforms like I'm drilling an oil well, laying down pipelines, and refining it all. But instead of oil, I extract raw data, refine it, and turn it into insights that fuel companies to take off!  
 
 <br><br>
 
 ---
 
-## 🚀 Core Skills  
+## Core Skills  
 - **Data Engineering & Architecture**: Expertise in building and optimizing data pipelines and scalable platforms, utilizing best practices in data engineering and system architecture.
 - **Cloud Infrastructure**: Proficient in cloud solutions with AWS and Azure to create robust and scalable environments for large data volumes.
 - **Data Pipelines**: Building and maintaining efficient data pipelines using Apache Spark, Python, and SQL to integrate, transform, and optimize data.
@@ -22,7 +22,7 @@ You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -44,7 +44,7 @@ You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I
 
 ---
 
-## 📊 My Most Used Languages  
+## My Most Used Languages  
 Below is a snapshot of the programming languages I frequently work with in my projects related to data science and financial risk analysis.
 
 <a href="https://github.com/anuraghazra/convoychat">
@@ -55,7 +55,7 @@ Below is a snapshot of the programming languages I frequently work with in my pr
 
 ---
 
-## 📂 Featured Projects  
+## Featured Projects  
 <div>
   <a href="https://github.com/higorcazuza81/courses">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=courses&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
@@ -70,7 +70,7 @@ Below is a snapshot of the programming languages I frequently work with in my pr
 ---
 
 
-## 📬 Contacts  
+## Contacts  
 <div>
   <a href="mailto:higorcazuza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/higorcazuza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
