@@ -61,7 +61,7 @@ Below is a snapshot of the programming languages I frequently work with in my pr
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=courses&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=template-pojeto-data-science&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorcazuza81&repo=dev_utils&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
   </a>
 </div>
 
