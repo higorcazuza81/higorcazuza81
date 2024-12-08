@@ -4,40 +4,43 @@
 ---
 
 ## About Me  
-You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I'm a Data Geek who builds pipelines and data platforms like I'm drilling an oil well, laying down pipelines, and refining it all. But instead of oil, I extract raw data, refine it, and turn it into insights that fuel companies to take off!  
+
+I'm a Quant Nerd who prefers data over drama. My laboratory is a laptop that transforms complexity into clarity, packed with mathematical formulas, statistical models, predictions, and graphs. After all, the work of a good scientist is to uncover the hidden structure within chaos, bringing simplicity and harmony to what seems random. While the world talks in opinions, I speak in confidence intervals — because, in the end, the truth is always in the numbers.
 
 <br><br>
 
 ---
 
 ## Core Skills  
-- **Data Engineering & Architecture**: Expertise in building and optimizing data pipelines and scalable platforms, utilizing best practices in data engineering and system architecture.
-- **Cloud Infrastructure**: Proficient in cloud solutions with AWS and Azure to create robust and scalable environments for large data volumes.
-- **Data Pipelines**: Building and maintaining efficient data pipelines using Apache Spark, Python, and SQL to integrate, transform, and optimize data.
-- **Big Data**: Implementing solutions to process and analyze large data volumes using Big Data technologies like Apache Spark and NoSQL databases (MongoDB, PostgreSQL).
-- **SQL & NoSQL Databases**: Expertise in SQL (PostgreSQL) and NoSQL (MongoDB) for data manipulation and analysis across different contexts.
-- **Programming & Scripting**: Mastery of Python for developing scalable and efficient solutions for data processing and task automation.
-
+- **Statistical:** Developing a solid understanding of core statistical methods, including descriptive statistics, hypothesis testing, and basic regression analysis, essential for analyzing and interpreting data.
+- **Data Visualization & Storytelling:** Learning to present data insights clearly through charts, graphs, and dashboards. Proficient in tools like Power BI and Tableau to communicate findings in a visually compelling way.
+- **Probability & Risk Analysis:** Building foundational knowledge in probability theory to assess and model uncertainty, a key skill for data-driven decision-making.
+- **Data Cleaning & Preprocessing:** Gaining hands-on experience with Python and SQL to clean, process, and organize raw data for analysis, ensuring accurate and reliable results.
+- **Multivariate Analysis:** Exploring early-stage techniques for analyzing data with multiple variables, such as clustering and basic factor analysis, to uncover patterns and relationships.
+- **Machine Learning:** machine learning concepts, focusing on supervised learning algorithms and predictive models.
+- 
 <br><br>
 
 ---
 
-## Tech Stack  
+## Tech Stack 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8C2C3C?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3BB143?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2C5FA5?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-5A2C2E?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 <br><br>
@@ -75,7 +78,6 @@ Below is a summary of the programming languages ​​I frequently work with in 
   <a href="https://www.linkedin.com/in/higorcazuza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.kaggle.com/higorcazuza" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://www.hackerrank.com/profile/higorcazuza" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://medium.com/@higorcazuza" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </div>
 
 
