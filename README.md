@@ -5,20 +5,17 @@
 
 ## About Me  
 
-I'm a Quant Nerd who prefers data over drama. My laboratory is a laptop that transforms complexity into clarity, packed with mathematical formulas, statistical models, predictions, and graphs. After all, the work of a good scientist is to uncover the hidden structure within chaos, bringing simplicity and harmony to what seems random. While the world talks in opinions, I speak in confidence intervals — because, in the end, the truth is always in the numbers.
+As a data engineer, I spend more time in the cloud building data platforms than on solid ground. That’s probably why they say I’m a bit spaced out! And of course, coffee is essential – especially because of the jetlag from time zone changes. I extract data, build pipelines, deploy databases, refine information, and deliver insights as fuel for companies to take off.
 
 <br><br>
 
 ---
 
 ## Core Skills  
-- **Statistical:** Developing a solid understanding of core statistical methods, including descriptive statistics, hypothesis testing, and basic regression analysis, essential for analyzing and interpreting data.
-- **Data Visualization & Storytelling:** Learning to present data insights clearly through charts, graphs, and dashboards. Proficient in tools like Power BI and Tableau to communicate findings in a visually compelling way.
-- **Probability & Risk Analysis:** Building foundational knowledge in probability theory to assess and model uncertainty, a key skill for data-driven decision-making.
-- **Data Cleaning & Preprocessing:** Gaining hands-on experience with Python and SQL to clean, process, and organize raw data for analysis, ensuring accurate and reliable results.
-- **Multivariate Analysis:** Exploring early-stage techniques for analyzing data with multiple variables, such as clustering and basic factor analysis, to uncover patterns and relationships.
-- **Machine Learning:** machine learning concepts, focusing on supervised learning algorithms and predictive models.
-- 
+- **Data Wrangling & ET:** Mastering data cleaning, transformation, and integration using tools like Python, SQL, and Apache Spark. This includes developing pipelines to ensure that data is accurate, clean, and ready for analysis.
+- **Programming & Scripting:** Proficiency in Python, SQL, and a basic understanding of Java or Scala, enabling efficient data manipulation, pipeline development, and integration with other systems.
+- Data Architecture & Modeling: Gaining expertise in designing and implementing data models, including relational, dimensional, and NoSQL databases. Understanding of data warehousing concepts and working with cloud-based data storage systems like AWS, GCP, or Azure.
+- **Cloud Computing & Infrastructure:** Understanding the deployment and management of data systems on cloud platforms such as AWS, Google Cloud, or Microsoft Azure. Experience with services like S3, Redshift, BigQuery, and cloud-based data lakes.
 <br><br>
 
 ---
