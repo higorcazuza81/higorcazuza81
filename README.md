@@ -12,7 +12,7 @@ As a data engineer, I spend more time in the cloud building data platforms than 
 ---
 
 ## Core Skills  
-- **Data Wrangling & ET:** Mastering data cleaning, transformation, and integration using tools like Python, SQL, and Apache Spark. This includes developing pipelines to ensure that data is accurate, clean, and ready for analysis.
+- **Data Wrangling & ETL:** Mastering data cleaning, transformation, and integration using tools like Python, SQL, and Apache Spark. This includes developing pipelines to ensure that data is accurate, clean, and ready for analysis.
 - **Programming & Scripting:** Proficiency in Python, SQL, and a basic understanding of Java or Scala, enabling efficient data manipulation, pipeline development, and integration with other systems.
 - Data Architecture & Modeling: Gaining expertise in designing and implementing data models, including relational, dimensional, and NoSQL databases. Understanding of data warehousing concepts and working with cloud-based data storage systems like AWS, GCP, or Azure.
 - **Cloud Computing & Infrastructure:** Understanding the deployment and management of data systems on cloud platforms such as AWS, Google Cloud, or Microsoft Azure. Experience with services like S3, Redshift, BigQuery, and cloud-based data lakes.
