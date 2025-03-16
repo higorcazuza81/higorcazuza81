@@ -1,7 +1,4 @@
-<!-- Imagem de capa -->
-<img src="https://github.com/higorcazuza81/higorcazuza81/blob/main/github.webp" alt="Capa" style="width: 100%; height: 300px; object-fit: cover;"/>
 
----
 
 ## Sobre Mim  
 
