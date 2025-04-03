@@ -1,44 +1,26 @@
 # Higor Cazuza  
-*Engenheiro de Dados | Estatístico | Python | SQL | AWS*  
-Construindo soluções de dados escaláveis e eficientes para impulsionar decisões estratégicas.
 
----
+Estatístico em formação, apaixonado por modelagem quantitativa e previsão de mercado.  
+Exploro dados utilizando estatística aplicada, machine learning e modelagem financeira para resolver problemas complexos. Meu interesse está na interseção entre dados e tomada de decisão, especialmente em risco, previsibilidade de mercado e análise quantitativa.  
 
-### 🛠 **Habilidades Técnicas**
+Além do meu trabalho individual, desenvolvo projetos no **[AxioML](https://github.com/AxioML)**, um portfólio colaborativo criado com minha esposa, **Janaína Cazuza**, engenheira de dados. Juntos, exploramos soluções em **Analytics, Big Data e Machine Learning**, com aplicações voltadas ao mercado financeiro e modelagem quantitativa. Também compartilhamos artigos e insights técnicos no **[Medium](https://medium.com/@axioml)**.  
 
-#### **Modelagem e Arquitetura de Dados**  
-- Modelagem de dados relacional e dimensional (OLTP, OLAP, Star-Schema, Snowflake).  
-- Arquitetura de soluções de dados em nuvem (AWS: S3, Redshift, Glue).  
-- Design de pipelines eficientes para ETL e ELT.
+## Áreas de interesse  
+- Modelagem preditiva e estatística aplicada  
+- Machine Learning para risco e finanças  
+- Séries temporais e previsão de mercado  
+- Otimização de portfólios e precificação de ativos  
 
-#### **Linguagens & Ferramentas**  
-- **Python** (Pandas, PySpark): Processamento de grandes volumes de dados, automação de tarefas e análise exploratória.  
-- **SQL** (CTEs, Window Functions, Otimização): Consultas avançadas e melhoria de performance em bancos de dados.  
-- **NoSQL** (MongoDB): Armazenamento e recuperação de dados não estruturados.
+## Ferramentas e Tecnologias  
+- **Python** (Pandas, NumPy, SciPy, scikit-learn, statsmodels)  
+- **SQL** (PostgreSQL, MySQL) para análise e modelagem de dados  
+- **Machine Learning** aplicado a risco e previsão  
 
-#### **Ferramentas de Orquestração**  
-- **Apache Airflow**: Orquestração de workflows e automação de pipelines.
+## Portfólio & Conteúdo  
+📂 **Projetos:** [AxioML](https://github.com/AxioML)  
+📝 **Blog:** [Medium](https://medium.com/@axioml)  
 
-#### **Cloud Computing**  
-- **AWS** (S3, Glue, Redshift - nível avançado): Implementação e manutenção de soluções de dados em nuvem.
-
----
-
-### 🔧 **Projetos Recentes**  
-- **ETL com PySpark**: Desenvolvimento de pipelines de dados escaláveis para análise em tempo real.  
-- **Armazenamento de Dados na Nuvem**: Implementação de soluções eficientes de armazenamento de dados utilizando AWS (S3, Glue e Redshift).  
-- **Orquestração de Pipelines**: Automação de processos de ETL utilizando Apache Airflow.
-
----
-
-### 📚 **Em Aprendizado Ativo**  
-- **Apache Spark**: Avançando no uso de PySpark para processamento distribuído de dados.  
-- **Otimização de SQL**: Melhorando habilidades em SQL avançado e otimização de consultas em grandes volumes de dados.
-
----
-
-### 📞 **Conecte-se comigo**  
-- [Email](mailto:higorcazuza@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/higorcazuza)  
-- [GitHub](https://github.com/higorcazuza81)  
-- [Kaggle](https://www.kaggle.com/higorcazuza)
+## Conecte-se comigo  
+📩 **Email:** [higorcazuza@gmail.com](mailto:higorcazuza@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/higorcazuza](https://www.linkedin.com/in/higorcazuza)  
+📊 **Kaggle:** [kaggle.com/higorcazuza](https://www.kaggle.com/higorcazuza)  
