@@ -1,26 +1,27 @@
 # Higor Cazuza  
 
-Estatístico em formação, apaixonado por modelagem quantitativa e previsão de mercado.  
-Exploro dados utilizando estatística aplicada, machine learning e modelagem financeira para resolver problemas complexos. Meu interesse está na interseção entre dados e tomada de decisão, especialmente em risco, previsibilidade de mercado e análise quantitativa.  
+Sou estatístico em formação e atuo como Engenheiro de Dados. Tenho interesse em projetar infraestrutura para Big Data, orquestrar pipelines de dados, provisionar e modelar bancos de dados, refinando informações fragmentadas em conhecimento útil e acessível.
 
-Além do meu trabalho individual, desenvolvo projetos no **[AxioML](https://github.com/AxioML)**, um portfólio colaborativo criado com minha esposa, **Janaína Cazuza**, engenheira de dados. Juntos, exploramos soluções em **Analytics, Big Data e Machine Learning**, com aplicações voltadas ao mercado financeiro e modelagem quantitativa. Também compartilhamos artigos e insights técnicos no **[Medium](https://medium.com/@axioml)**.  
-
-## Áreas de interesse  
-- Modelagem preditiva e estatística aplicada  
-- Machine Learning para risco e finanças  
-- Séries temporais e previsão de mercado  
-- Otimização de portfólios e precificação de ativos  
+Além do meu trabalho individual, desenvolvo projetos no **[Asymptora](https://github.com/asymptora)**, um portfólio colaborativo criado com minha esposa, **[Janaína Cazuza](https://github.com/janainacazuza)**, também engenheira de dados. No Asymptora, aplicamos soluções complexas de engenharia, com foco em infraestrutura, Big Data e orquestração de dados, sempre com alto rigor técnico e boas práticas de engenharia modernas.
 
 ## Ferramentas e Tecnologias  
-- **Python** (Pandas, NumPy, SciPy, scikit-learn, statsmodels)  
-- **SQL** (PostgreSQL, MySQL) para análise e modelagem de dados  
-- **Machine Learning** aplicado a risco e previsão  
+**Python** – Scripts de ETL, automação de tarefas, manipulação de dados com Pandas e integração com APIs.
+
+**SQL** – Modelagem, consultas otimizadas e transformação de dados em bancos relacionais.
+
+**Apache Airflow** – Orquestração de pipelines com DAGs confiáveis e monitoráveis.
+
+**dbt** – Transformações SQL em ambiente de Data Warehouse com versionamento e testes.
+
+**AWS** – Armazenamento em S3, processamento com Glue, análise com Redshift e monitoramento via CloudWatch.
+
+**Docker** & **CI/CD** – Contêineres reprodutíveis e pipelines automatizados para testes e deploys no GitLab CI.
 
 ## Portfólio & Conteúdo  
-📂 **Projetos:** [AxioML](https://github.com/AxioML)  
-📝 **Blog:** [Medium](https://medium.com/@axioml)  
+📂 **Projetos:** [Asymptora](https://github.com/Asymptora)  
+📝 **Blog:** [Medium](https://medium.com/@Asymptora)  
 
 ## Conecte-se comigo  
-📩 **Email:** [higorcazuza@gmail.com](mailto:higorcazuza@gmail.com)  
+📩 **Email:** [higorcazuza@protonmail.com](mailto:higorcazuza@protonmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/higorcazuza](https://www.linkedin.com/in/higorcazuza)  
 📊 **Kaggle:** [kaggle.com/higorcazuza](https://www.kaggle.com/higorcazuza)  
