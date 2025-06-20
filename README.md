@@ -1,27 +1,31 @@
-# Higor Cazuza  
+# Higor Cazuza
 
-Sou estatístico em formação e atuo como Engenheiro de Dados. Tenho interesse em projetar infraestrutura para Big Data, orquestrar pipelines de dados, provisionar e modelar bancos de dados, refinando informações fragmentadas em conhecimento útil e acessível.
+Sou graduando em Estatística com foco em Analytics e Ciência de Dados para negócios. Trabalho com análise de dados e modelagem estatística para gerar insights que apoiam a tomada de decisão baseada em evidências. Domino SQL, Python, R e técnicas estatísticas aplicadas à resolução de problemas analíticos.
 
-Além do meu trabalho individual, desenvolvo projetos no **[Asymptora](https://github.com/asymptora)**, um portfólio colaborativo criado com minha esposa, **[Janaína Cazuza](https://github.com/janainacazuza)**, também engenheira de dados. No Asymptora, aplicamos soluções complexas de engenharia, com foco em infraestrutura, Big Data e orquestração de dados, sempre com alto rigor técnico e boas práticas de engenharia modernas.
+Atualmente, atuo como **pesquisador pela Ânima Educação**, onde desenvolvo um estudo aplicado sobre Comunicação Digital e Empreendedorismo Feminino, utilizando análises estatísticas e painéis interativos para entregar recomendações baseadas em evidências.
 
-## Ferramentas e Tecnologias  
-**Python** – Scripts de ETL, automação de tarefas, manipulação de dados com Pandas e integração com APIs.
+Também sou cofundador do **[Asymptora](https://github.com/asymptora)**, um portfólio colaborativo criado com minha esposa **[Janaína Cazuza](https://github.com/janainacazuza)**, engenheira de dados. Na Asymptora, desenvolvemos soluções completas de ponta a ponta: ela lidera a parte de engenharia e infraestrutura de dados, enquanto eu atuo na análise, visualização e modelagem estatística. Unimos engenharia e analytics com boas práticas, rigor técnico e foco em valor de negócio.
 
-**SQL** – Modelagem, consultas otimizadas e transformação de dados em bancos relacionais.
+## 🛠️ Ferramentas e Tecnologias
 
-**Apache Airflow** – Orquestração de pipelines com DAGs confiáveis e monitoráveis.
+**Python** – Manipulação de dados com Pandas e NumPy, automações, web scraping e integrações com APIs 
 
-**dbt** – Transformações SQL em ambiente de Data Warehouse com versionamento e testes.
+**R** – Análise estatística, visualizações e modelagem com tidyverse e caret
 
-**AWS** – Armazenamento em S3, processamento com Glue, análise com Redshift e monitoramento via CloudWatch.
+**SQL** – Modelagem de dados, queries otimizadas e transformação em bancos relacionais  
 
-**Docker** & **CI/CD** – Contêineres reprodutíveis e pipelines automatizados para testes e deploys no GitLab CI.
+**Power BI** – Dashboards interativos com storytelling orientado a dados
 
-## Portfólio & Conteúdo  
-📂 **Projetos:** [Asymptora](https://github.com/Asymptora)  
-📝 **Blog:** [Medium](https://medium.com/@Asymptora)  
+**Estatística Aplicada** – Inferência, testes de hipóteses, regressão, análise de dados categóricos e séries temporais  
 
-## Conecte-se comigo  
-📩 **Email:** [higorcazuza@protonmail.com](mailto:higorcazuza@protonmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/higorcazuza](https://www.linkedin.com/in/higorcazuza)  
-📊 **Kaggle:** [kaggle.com/higorcazuza](https://www.kaggle.com/higorcazuza)  
+
+## 📂 Portfólio e Conteúdo
+
+- **Projetos:** [Asymptora](https://github.com/Asymptora)  
+- **Blog:** [Medium](https://medium.com/@Asymptora)
+
+## 📬 Contato e Redes
+
+- **Email:** [higorcazuza@protonmail.com](mailto:higorcazuza@protonmail.com)  
+- **LinkedIn:** [linkedin.com/in/higorcazuza](https://www.linkedin.com/in/higorcazuza)  
+- **Kaggle:** [kaggle.com/higorcazuza](https://www.kaggle.com/higorcazuza)
