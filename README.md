@@ -68,8 +68,14 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img height="180em" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=higorcazuza81&show_icons=true&include_all_commits=true&count_private=true&bg_color=1A1B27&title_color=FFCA28&text_color=EAEAEA&icon_color=FFCA28&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorcazuza81&layout=compact&langs_count=7&bg_color=1A1B27&title_color=FFCA28&text_color=EAEAEA&border_color=30363d"/>
+<p float="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=higorcazuza81&show_icons=true&include_all_commits=true&count_private=true&bg_color=1A1B27&title_color=FFCA28&text_color=EAEAEA&icon_color=FFCA28&border_color=30363d"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorcazuza81&layout=compact&langs_count=7&bg_color=1A1B27&title_color=FFCA28&text_color=EAEAEA&border_color=30363d"
+    height="180"
+  />
 </p>
 
