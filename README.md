@@ -1,6 +1,6 @@
 # Higor Cazuza
 
-### Data Engineer | AWS & Terraform | Airflow | Docker | Python | SQL
+### Data Engineer | AZURE & Terraform | Airflow | Docker | Python | SQL
 
 <p align="left">
   <a href="https://www.linkedin.com/in/higorcazuza/" target="_blank">
@@ -32,9 +32,9 @@ My journey into data engineering began during my studies in Statistics. It was t
 
 ### 🚀 Featured Portfolio: Asymptora Data Lab
 
-This is my primary focus: a data engineering portfolio I develop with my wife and fellow Data Engineer, Janaína. **Asymptora** is our lab for implementing enterprise-grade, end-to-end data solutions on the cloud.
+This is my primary focus: a multi-cloud data engineering portfolio I develop with my wife and fellow Data Engineer, Janaína. Asymptora is our lab for implementing enterprise-grade, end-to-end data solutions, demonstrating our ability to master best practices on both AWS and Azure.
 
-Our current project involves building a complete data pipeline on AWS, fully provisioned with Terraform and orchestrated by Airflow. The goal is to demonstrate mastery over the core pillars of modern data platform engineering.
+Our projects involve building complete data pipelines, fully provisioned with Terraform and orchestrated by Airflow. The goal is to showcase our mastery over the core pillars of modern data platform engineering, agnostic of the cloud provider.
 
 ### **[➡️ Dive into the Asymptora Project Repository](https://github.com/Asymptora)**
 
