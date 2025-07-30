@@ -1,6 +1,6 @@
 # Higor Cazuza
 
-### Data Engineer | Backend & Data Platform Specialist
+### Data Engineer | Azure Cloud & Python
 
 <p align="left">
   <a href="https://www.linkedin.com/in/higorcazuza/" target="_blank">
@@ -11,51 +11,49 @@
   </a>
 </p>
 
----
+## My Engineering Philosophy
 
-### 👨‍💻 My Mission
-
-My mission is to engineer high-performance data ecosystems on Azure. I translate business problems into resilient data architecture, where **software engineering principles and Infrastructure as Code (IaC) are the foundational pillars of every solution.**
+I engineer high-performance data ecosystems on Azure. My work translates business problems into resilient data architecture, where **software engineering principles and Infrastructure as Code (IaC) are the foundational pillars of every solution.** I believe that true mastery comes from a deep, "first-principles" understanding of technology, a philosophy I apply to build systems that are scalable, reliable, and maintainable.
 
 ---
 
-### 🔥 The Forge: My Engineering Logbook
+## The Forge: A Data Engineering Portfolio
 
-This repository is my development lab and the evidence of my technical evolution. Here, I build, test, and document my mastery of the essential technologies and architectures in modern data engineering. Each folder represents a functional system or component, built from the ground up. No empty theory, just applied code and infrastructure.
+This is my primary engineering portfolio, a curated collection of projects demonstrating a systematic and deep-dive approach to Data Engineering. It serves as the tangible evidence of my journey to master the core competencies of the field, from algorithms to cloud infrastructure.
 
-**➡️ [Enter The Forge and see the code in action](https://github.com/higorcazuza81/the-forge-engineering-logbook)**
+**➡️ [Explore The Forge to see my code and project evolution](https://github.com/higorcazuza81/the-forge-engineering-logbook)**
 
 ---
 
-### 🔬 Asymptora Data Lab: Production-Grade R&D
+## Asymptora Data Lab: Production-Grade R&D
 
-Asymptora is our lab for R&D of production-grade data solutions. It is an advanced development hub I run with Data Engineer [Janaína Cazuza](https://github.com/janainacazuza). Our dynamic is our strength:
+Asymptora is our lab for R&D of production-grade data solutions. It is an advanced development hub I run with Data Engineer [Janaína Cazuza](https://www.linkedin.com/in/janainacazuza/). Our dynamic is our strength:
 
 * **I lead architecture and infrastructure within the Azure ecosystem.**
 * **Janaína leads architecture and infrastructure within the AWS ecosystem.**
 
 This structure allows for continuous cross-training and gives us the ability to deliver end-to-end data solutions, mastering the best practices of both leading cloud providers.
 
-**➡️ [Explore Asymptora's projects](https://github.com/Asymptora)**
+**➡️ [Explore Asymptora's collaborative projects](https://github.com/Asymptora)**
 
 ---
 
-### 🛠️ Tech Arsenal
+## Tech Arsenal
 
-| Category              | Technologies                                       |
-| --------------------- | -------------------------------------------------- |
-| **Cloud Computing** | `Azure`                                            |
-| **Infrastructure as Code** | `Terraform`                                        |
-| **Backend & APIs** | `Python`, `FastAPI`                                |
-| **Containers & Virtualization** | `Docker`                                           |
-| **Orchestration** | `Apache Airflow`                                   |
-| **Testing** | `Pytest`                                           |
-| **Databases** | `SQL (PostgreSQL)`, `NoSQL (Azure Cosmos DB)`      |
-| **Big Data & Processing** | `Apache Spark (PySpark)`, `Azure Databricks`       |
+| Category                    | Technologies                                           |
+| --------------------------- | ------------------------------------------------------ |
+| **Cloud Computing** | `Azure`                                                |
+| **Infrastructure as Code** | `Terraform`                                            |
+| **Backend & APIs** | `Python`, `FastAPI`                                    |
+| **Containers & Virtualization** | `Docker`                                               |
+| **Orchestration** | `Apache Airflow`                                       |
+| **Testing** | `Pytest`                                               |
+| **Databases** | `SQL (PostgreSQL)`, `NoSQL (Azure Cosmos DB)`          |
+| **Big Data & Processing** | `Apache Spark (PySpark)`, `Azure Databricks`           |
 
 ---
 
-### 📊 My GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr valign="top">
