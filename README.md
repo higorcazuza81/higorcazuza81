@@ -60,10 +60,10 @@ This structure allows for continuous cross-training and gives us the ability to 
 <table align="center">
   <tr valign="top">
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=higorcazuza81&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363d" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=higorcazuza81&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363d" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorcazuza81&layout=compact&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363d" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorcazuza81&layout=compact&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363d&cache_seconds=1800" />
     </td>
   </tr>
 </table>
