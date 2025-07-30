@@ -29,7 +29,7 @@ This repository is my development lab and the evidence of my technical evolution
 
 ### 🔬 Asymptora Data Lab: Production-Grade R&D
 
-Asymptora is our lab for R&D of production-grade data solutions. It is an advanced development hub I run with Data Engineer [Janaína Cazuza](https://www.linkedin.com/in/JANAINA_PROFILE_URL). Our dynamic is our strength:
+Asymptora is our lab for R&D of production-grade data solutions. It is an advanced development hub I run with Data Engineer [Janaína Cazuza](https://github.com/janainacazuza). Our dynamic is our strength:
 
 * **I lead architecture and infrastructure within the Azure ecosystem.**
 * **Janaína leads architecture and infrastructure within the AWS ecosystem.**
