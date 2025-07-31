@@ -1,45 +1,42 @@
 # Higor Cazuza
-
-### Software Engineer | Building High-Performance Systems from the Ground Up
+*Software Engineer | Building High-Performance Systems from the Ground Up*
 
 ---
 
 ## Engineering Philosophy & The Logbook
 
-I build robust and efficient software by applying a rigorous, first principles approach to computer science fundamentals.  
+I build robust and efficient software by applying a rigorous, first-principles approach to computer science fundamentals.
 This GitHub profile serves as my public engineering logbook, a transparent and systematic documentation of my work, from foundational algorithms to complex system architecture.
 
 **Mastery is not claimed, it is proven through consistent engineering practice.**
 
-**➡️ [Explore my Engineering Logbook to see the work in progress](https://github.com/higorcazuza81/dev-journal)**
+➡️ **[Explore my Engineering Logbook to see the work in progress.](./software-engineering-logbook)**
 
 ---
 
 ## Asymptora: R&D Lab
 
-Asymptora is our lab for researching and developing production grade data platform solutions.  
-It is where foundational knowledge is stress tested under real world constraints.
+Asymptora is the R&D lab founded by my wife, [Janaína](https://github.com/janainacazuza), and me. It's our initiative for researching, developing, and stress-testing production-grade data platform solutions under real-world constraints.
 
-**➡️ [Explore Asymptora's collaborative projects](https://github.com/Asymptora)**
+➡️ **[Explore Asymptora's collaborative projects.](https://github.com/Asymptora)**
 
 ---
 
-## Core Competencies & Study Roadmap
+## Core Competencies & Development Roadmap
 
-My work is structured around mastering the pillars of modern Software Engineering.
+My work is structured around a continuous process of learning and application across the pillars of modern Software Engineering.
 
-| Category                | Core Focus                                                          | Status      |
-|-------------------------|---------------------------------------------------------------------|-------------|
-| Language Mastery        | Python                                                              | Mastering   |
-| Computational Thinking  | Data Structures, Algorithms                                         | Studying    |
-| Architecture & Design   | OOP, Design Patterns                                                | Studying    |
-| Engineering Practices   | Git, TDD (Pytest), CI/CD                                            | Practicing  |
-| Systems Integration     | REST APIs (FastAPI), Containerization (Docker), Databases (SQL)     | Practicing  |
+| Category | Core Focus | Status |
+| :--- | :--- | :--- |
+| **Language** | Python | `Proficient` |
+| **Theory** | Data Structures, Algorithms | `Developing` |
+| **Design** | OOP, Design Patterns, System Design | `Developing` |
+| **Practices** | Git, TDD (Pytest), CI/CD | `Applying` |
+| **Systems** | REST APIs (FastAPI), Containers (Docker), SQL | `Applying` |
 
 ---
 
 ## Contact
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higorcazuza/)
 
-
+* **LinkedIn:** [linkedin.com/in/higorcazuza](https://www.linkedin.com/in/higorcazuza/)
+* **Email:** [higorcazuza@gmail.com](mailto:higorcazuza@gmail.com)
