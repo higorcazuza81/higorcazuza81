@@ -1,5 +1,5 @@
 # Higor Cazuza
-*Software Engineer | Building High-Performance Systems from the Ground Up*
+**Software Engineer | Building High-Performance Systems from the Ground Up**
 
 ---
 
@@ -10,7 +10,7 @@ This GitHub profile serves as my public engineering logbook, a transparent and s
 
 **Mastery is not claimed, it is proven through consistent engineering practice.**
 
-➡️ **[Explore my Engineering Logbook to see the work in progress.](./software-engineering-logbook)**
+➡️ **[Explore my Engineering Logbook to see the work in progress.](https://github.com/higorcazuza81/software-engineering-logbook)**
 
 ---
 
