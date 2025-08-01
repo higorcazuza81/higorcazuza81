@@ -1,38 +1,32 @@
 # Higor Cazuza
-**Software Engineer | Building High-Performance Systems from the Ground Up**
+### Software Engineer | Backend & Data Systems
+
+Software engineer focused on building distributed, robust, and high-performance systems. I apply a rigorous methodology, based on first principles of Computer Science, to develop efficient and scalable solutions.
+
+This profile is the front-face of my technical portfolio, which systematically documents my work in algorithms, software architecture, and engineering practices.
 
 ---
 
-## Engineering Philosophy & The Logbook
+## Core Projects
 
-I build robust and efficient software by applying a rigorous, first-principles approach to computer science fundamentals.
-This GitHub profile serves as my public engineering logbook, a transparent and systematic documentation of my work, from foundational algorithms to complex system architecture.
-
-**Mastery is not claimed, it is proven through consistent engineering practice.**
-
-➡️ **[Explore my Engineering Logbook to see the work in progress.](https://github.com/higorcazuza81/software-engineering-logbook)**
+| Project                                                                        | Description                                                                                                                                                       |
+| :----------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ➡️ **[Engineering Logbook](https://github.com/higorcazuza81/software-engineering-logbook)** | My public engineering logbook. It is the detailed and auditable record of my studies and implementations, from fundamentals to complex systems.                |
+| ➡️ **[Asymptora R&D Lab](https://github.com/Asymptora)** | R&D lab co-founded with [Janaína Cazuza](https://github.com/janainacazuza) to research, prototype, and stress-test production-grade data platform solutions. |
 
 ---
 
-## Asymptora: R&D Lab
+## Tech Stack & Competencies
 
-Asymptora is the R&D lab founded by my wife, [Janaína](https://github.com/janainacazuza), and me. It's our initiative for researching, developing, and stress-testing production-grade data platform solutions under real-world constraints.
+My work is structured around a continuous process of practical application in the following areas:
 
-➡️ **[Explore Asymptora's collaborative projects.](https://github.com/Asymptora)**
-
----
-
-## Core Competencies & Development Roadmap
-
-My work is structured around a continuous process of learning and application across the pillars of modern Software Engineering.
-
-| Category | Core Focus | Status |
-| :--- | :--- | :--- |
-| **Language** | Python | `Proficient` |
-| **Theory** | Data Structures, Algorithms | `Developing` |
-| **Design** | OOP, Design Patterns, System Design | `Developing` |
-| **Practices** | Git, TDD (Pytest), CI/CD | `Applying` |
-| **Systems** | REST APIs (FastAPI), Containers (Docker), SQL | `Applying` |
+| Category                    | Technologies & Tools                                        |
+| :-------------------------- | :---------------------------------------------------------- |
+| **Languages** | **Python**, SQL                                             |
+| **Theory & Algorithms** | Data Structures, Complexity Analysis (Big O)                |
+| **Architecture & Design** | **OOP**, Design Patterns, Microservices Architecture, REST APIs |
+| **Engineering Practices** | Git, **TDD (Pytest)**, CI/CD, Linting (Ruff)                |
+| **Systems & Infrastructure**| **FastAPI**, **Docker**, PostgreSQL, Messaging (RabbitMQ/Kafka) |
 
 ---
 
