@@ -1,36 +1,33 @@
-# Higor Cazuza
-### Software Engineer | Backend & Data Systems
+# Higor Cazuza - Data Engineer
 
-Software engineer focused on building distributed, robust, and high-performance systems. I apply a rigorous methodology, based on first principles of Computer Science, to develop efficient and scalable solutions.
-
-This profile is the front-face of my technical portfolio, which systematically documents my work in algorithms, software architecture, and engineering practices.
+Engenheiro de Dados especializado em projetar, construir e automatizar pipelines de dados robustos e escaláveis no ecossistema Azure. Minha abordagem é fundamentada em uma transição de carreira estratégica, unindo uma base analítica de Estatística com o foco em resolver os gargalos de infraestrutura que destravam o verdadeiro potencial dos dados.
 
 ---
 
-## Core Projects
+###  portfolio-project
 
-| Project                                                                        | Description                                                                                                                                                       |
-| :----------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ➡️ **[Engineering Logbook](https://github.com/higorcazuza81/software-engineering-logbook)** | My public engineering logbook. It is the detailed and auditable record of my studies and implementations, from fundamentals to complex systems.                |
-| ➡️ **[Asymptora R&D Lab](https://github.com/Asymptora)** | R&D lab co-founded with [Janaína Cazuza](https://github.com/janainacazuza) to research, prototype, and stress-test production-grade data platform solutions. |
+### 🚀 Projeto de Portfólio: Azure End-to-End
 
----
+Toda a minha capacidade técnica atual está demonstrada no repositório **[azure-data-engineering-portfolio](URL_DO_REPOSITORIO_AZURE_PORTFOLIO)**. Este projeto único consolida um pipeline de dados completo, desde a ingestão até a disponibilização para análise, validando minhas competências para uma posição de nível pleno.
 
-## Tech Stack & Competencies
-
-My work is structured around a continuous process of practical application in the following areas:
-
-| Category                    | Technologies & Tools                                        |
-| :-------------------------- | :---------------------------------------------------------- |
-| **Languages** | **Python**, SQL                                             |
-| **Theory & Algorithms** | Data Structures, Complexity Analysis (Big O)                |
-| **Architecture & Design** | **OOP**, Design Patterns, Microservices Architecture, REST APIs |
-| **Engineering Practices** | Git, **TDD (Pytest)**, CI/CD, Linting (Ruff)                |
-| **Systems & Infrastructure**| **FastAPI**, **Docker**, PostgreSQL, Messaging (RabbitMQ/Kafka) |
+* **Ingestão e Orquestração:** Extração de dados de APIs REST, orquestração com Airflow.
+* **Processamento e Armazenamento:** Processamento em Python (Pandas) e armazenamento em Azure Blob Storage (Data Lake com arquitetura Bronze/Silver).
+* **Modelagem e Análise:** Implementação de Star Schema em Azure SQL DB (camada Gold) para consumo em ferramentas de BI.
+* **Infraestrutura como Código:** Provisionamento de 100% da infraestrutura cloud com Terraform, garantindo reprodutibilidade e controle.
+* **Contêineres:** Portabilidade e isolamento de dependências com Docker.
 
 ---
 
-## Contact
+### 🛠️ Tech Stack
 
-* **LinkedIn:** [linkedin.com/in/higorcazuza](https://www.linkedin.com/in/higorcazuza/)
-* **Email:** [higorcazuza@gmail.com](mailto:higorcazuza@gmail.com)
+| Cloud & Infra                                    | Data Processing & Orchestration | Databases & Modeling | Version Control     |
+| :----------------------------------------------- | :------------------------------ | :------------------- | :------------------ |
+| **Azure** (Blob Storage, SQL DB, Data Factory) | **Python** (Pandas)             | **SQL** | **Git & GitHub** |
+| **Terraform** | **Airflow** | Star Schema          |                     |
+|                                                  | **Docker** |                      |                     |
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higorcazuza)
