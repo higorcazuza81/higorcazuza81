@@ -1,46 +1,40 @@
-# Higor Cazuza - Data Engineer
+# Olá, sou o Higor. 👋
 
-Engenheiro de Dados especializado em projetar, construir e automatizar pipelines de dados robustos e escaláveis no ecossistema Azure. Minha abordagem é fundamentada em uma transição de carreira estratégica, unindo uma base analítica de Estatística com o foco em resolver os gargalos de infraestrutura que destravam o verdadeiro potencial dos dados.
+### Analista de Risco Quantitativo | Inferência Estatística
 
----
+Atuo na intersecção entre **Negócios Financeiros** e **Modelagem Quantitativa**.
+Minha abordagem técnica subordina a intuição de mercado ao rigor matemático. Desenvolvo soluções de **Risco de Crédito** (IFRS 9 / Basileia III) focadas em transparência decisória (*White-Box Modeling*) e reprodutibilidade científica.
 
-###  portfolio-project
-
-### 🚀 Projeto de Portfólio: Azure End-to-End
-
-Toda a minha capacidade técnica atual está demonstrada no repositório **[azure-data-engineering-portfolio](https://github.com/higorcazuza81/azure-data-engineering-portfolio)**. Este projeto único consolida um pipeline de dados completo, desde a ingestão até a disponibilização para análise, validando minhas competências para uma posição de nível pleno.
-
-* **Ingestão e Orquestração:** Extração de dados de APIs REST, orquestração com Airflow.
-* **Processamento e Armazenamento:** Processamento em Python (Pandas) e armazenamento em Azure Blob Storage (Data Lake com arquitetura Bronze/Silver).
-* **Modelagem e Análise:** Implementação de Star Schema em Azure SQL DB (camada Gold) para consumo em ferramentas de BI.
-* **Infraestrutura como Código:** Provisionamento de 100% da infraestrutura cloud com Terraform, garantindo reprodutibilidade e controle.
-* **Contêineres:** Portabilidade e isolamento de dependências com Docker.
+O foco deste laboratório é a construção de arquiteturas de decisão que mitigam a assimetria de informação e protegem o capital, utilizando Ciência de Dados e Estatística como ferramentas de auditoria e previsão.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Engenharia de Risco (Toolkit)
 
-| Cloud & Infra                                    | Data Processing & Orchestration | Databases & Modeling | Version Control     |
-| :----------------------------------------------- | :------------------------------ | :------------------- | :------------------ |
-| **Azure** (Blob Storage, SQL DB, Data Factory) | **Python** (Pandas)             | **SQL** | **Git & GitHub** |
-| **Terraform** | **Airflow** | Star Schema          |                     |
-|                                                  | **Docker** |                      |                     |
+Stack tecnológica selecionada para garantir robustez estatística, escalabilidade e conformidade regulatória.
 
----
-
----
-
-### 🏆 Certificações
-
-![Data Engineer Associate](https://github.com/higorcazuza81/higorcazuza81/blob/main/data-engineering-associate-badge.png)
-
-* **Data Engineer Associate** - DataCamp
-    * Foco em SQL, modelagem de dados e fundamentos de engenharia de dados.
-    * Atualmente cursando a trilha de certificação em Python e Airflow.
+| Domínio | Stack & Bibliotecas |
+| :--- | :--- |
+| **Modelagem & Estatística** | `Python`, `statsmodels` (GLM/Logit), `scipy` (Otimização & Inferência), `optbinning` (Monotonic Binning & WoE) |
+| **Engenharia de Dados** | `SQL`, `pandas`, `numpy`, Tratamento de Dados Financeiros |
+| **Visualização & Report** | `matplotlib` e `seaborn` (EDA), `PowerBI` (Dashboards Executivos de Performance de Carteira) |
 
 ---
 
----
-### 📫 Contato
+### 📂 Portfólio de Projetos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higorcazuza)
+Implementações técnicas focadas em problemas reais de solvência e crédito bancário.
+
+| Projeto | O Problema de Negócio | A Solução (Metodologia) | Status |
+| :--- | :--- | :--- | :--- |
+| **[Vintage Analysis Dashboard](#)** | **Monitoramento de Carteira** <br> Identificação de deterioração de safras e volatilidade de inadimplência. | Matriz de Roll Rates (SQL Window Functions), Análise de Coorte e visualização de curvas de "Bads". | 🚧 *Em Desenvolvimento* |
+| **[IFRS 9 Scorecard](#)** | **Decisão de Crédito** <br> Modelagem preditiva para concessão com explicabilidade regulatória. | Pipeline de *Application Score* utilizando **Weight of Evidence (WoE)**, **Information Value (IV)** e calibração de PD. | 📅 *No Roadmap* |
+| **[Lending Club Decision Engine](#)** | **Engenharia de Produção** <br> Operacionalização de modelos em ambiente Big Data. | Motor de decisão simulado em **PySpark** e **Databricks**, integrando regras de política e score estatístico. | 📅 *No Roadmap* |
+
+---
+
+### 🤝 Contato Profissional
+
+Disponível para discussões técnicas sobre modelagem de crédito, cenários macroprudenciais e arquitetura de dados para risco.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](SEU_LINK_DO_LINKEDIN)
