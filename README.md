@@ -37,4 +37,4 @@ Implementações técnicas focadas em problemas reais de solvência e crédito b
 
 Disponível para discussões técnicas sobre modelagem de crédito, cenários macroprudenciais e arquitetura de dados para risco.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](SEU_LINK_DO_LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/higorcazuza/)
