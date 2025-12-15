@@ -1,40 +1,40 @@
-# Olá, sou o Higor. 👋
+# Higor Cazuza | Corporate Finance & Data Strategy
+### FP&A • Controladoria • Análise Estatística
 
-### Analista de Risco Quantitativo | Inferência Estatística
-
-Atuo na intersecção entre **Negócios Financeiros** e **Modelagem Quantitativa**.
-Minha abordagem técnica subordina a intuição de mercado ao rigor matemático. Desenvolvo soluções de **Risco de Crédito** (IFRS 9 / Basileia III) focadas em transparência decisória (*White-Box Modeling*) e reprodutibilidade científica.
-
-O foco deste laboratório é a construção de arquiteturas de decisão que mitigam a assimetria de informação e protegem o capital, utilizando Ciência de Dados e Estatística como ferramentas de auditoria e previsão.
+Repositório focado na aplicação de Ciência de Dados e Estatística para aprimorar a Controladoria e o Planejamento Financeiro (FP&A).
+A abordagem central consiste em unir a governança dos dados contábeis à capacidade preditiva de modelos analíticos, visando robustez na projeção de fluxo de caixa e P&L.
 
 ---
 
-### 🛠️ Engenharia de Risco (Toolkit)
+### Domains of Expertise
 
-Stack tecnológica selecionada para garantir robustez estatística, escalabilidade e conformidade regulatória.
+Integração entre visão de negócio e capacidade técnica computacional.
 
-| Domínio | Stack & Bibliotecas |
+| Pilar Estratégico | Metodologia & Ferramental |
 | :--- | :--- |
-| **Modelagem & Estatística** | `Python`, `statsmodels` (GLM/Logit), `scipy` (Otimização & Inferência), `optbinning` (Monotonic Binning & WoE) |
-| **Engenharia de Dados** | `SQL`, `pandas`, `numpy`, Tratamento de Dados Financeiros |
-| **Visualização & Report** | `matplotlib` e `seaborn` (EDA), `PowerBI` (Dashboards Executivos de Performance de Carteira) |
+| **Financial Reporting & BI** | Transformação de dados contábeis em painéis de controle executivos para monitoramento de KPIs e performance de unidades de negócio. Uso de **Power BI** para visualização dinâmica e **Excel** para modelagem de cenários e *ad-hoc analysis*. |
+| **Forecasting & Planning** | Superação das limitações de projeções lineares através de modelagem estatística em **Python** (Séries Temporais), aumentando a assertividade do Budget e Rolling Forecast. |
+| **Data Integrity & Control** | Estruturação de pipelines de dados via **SQL** para garantir a "Single Source of Truth" (Fonte Única da Verdade) nas reconciliações financeiras, eliminando inconsistências manuais e riscos de compliance. |
 
 ---
 
-### 📂 Portfólio de Projetos
+### Corporate Finance Projects
 
-Implementações técnicas focadas em problemas reais de solvência e crédito bancário.
+Aplicações práticas voltadas para eficiência de capital e controle orçamentário.
 
-| Projeto | O Problema de Negócio | A Solução (Metodologia) | Status |
-| :--- | :--- | :--- | :--- |
-| **[Vintage Analysis Dashboard](#)** | **Monitoramento de Carteira** <br> Identificação de deterioração de safras e volatilidade de inadimplência. | Matriz de Roll Rates (SQL Window Functions), Análise de Coorte e visualização de curvas de "Bads". | 🚧 *Em Desenvolvimento* |
-| **[IFRS 9 Scorecard](#)** | **Decisão de Crédito** <br> Modelagem preditiva para concessão com explicabilidade regulatória. | Pipeline de *Application Score* utilizando **Weight of Evidence (WoE)**, **Information Value (IV)** e calibração de PD. | 📅 *No Roadmap* |
-| **[Lending Club Decision Engine](#)** | **Engenharia de Produção** <br> Operacionalização de modelos em ambiente Big Data. | Motor de decisão simulado em **PySpark** e **Databricks**, integrando regras de política e score estatístico. | 📅 *No Roadmap* |
+| Modelagem | Contexto de Negócio (Business Case) |
+| :--- | :--- |
+| **[Automated P&L Variance Analysis](#)** | **Controle Orçamentário:** Automatização do cálculo de variações (Price/Volume Mix) entre Realizado vs. Orçado, permitindo identificação rápida de desvios de margem. |
+| **[Cash Flow Statistical Projection](#)** | **Tesouraria Estratégica:** Utilização de inferência estatística para projetar o Ciclo de Conversão de Caixa (CCC) e necessidades de capital de giro com base na sazonalidade histórica. |
+| **[Revenue & Unit Economics](#)** | **Performance Comercial:** Análise granular de rentabilidade por canal e produto, integrando dados transacionais brutos à estrutura de custos contábeis. |
 
 ---
 
-### 🤝 Contato Profissional
+### Technical Foundation
 
-Disponível para discussões técnicas sobre modelagem de crédito, cenários macroprudenciais e arquitetura de dados para risco.
+A arquitetura dos projetos prioriza a auditabilidade e a escalabilidade das rotinas financeiras.
+* **Data Science (Python/Pandas):** Para processamento de volume de dados superior à capacidade de planilhas.
+* **Database (SQL):** Para integridade e rastreabilidade da informação desde o ERP.
+* **Visualization (Power BI/Excel):** Para tradução da complexidade técnica em clareza executiva.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/higorcazuza/)
+[LinkedIn](https://www.linkedin.com/in/higorcazuza/)
