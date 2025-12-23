@@ -1,52 +1,40 @@
-# Higor
-### Data Analyst | Statistician
+# Hi, I'm Cazuza.
 
-Foco em Análise de Dados, Automação (ETL) e Modelagem Estatística.
-Atualmente graduando em Estatística e aprofundando estudos em Engenharia de Software e Machine Learning.
+### DevOps & Cloud Infrastructure Engineer
 
----
-
-### 🛠 Tech Stack
-
-**Languages & Core:**
-* Python (Pandas, NumPy, Requests, Scikit-learn)
-* SQL (PostgreSQL, Window Functions)
-* R (Statistical Analysis)
-
-**Tools & Environment:**
-* Power BI (DAX)
-* Git / GitHub
-* Jupyter Notebooks
-* Excel (VBA/Advanced Formulas)
+I focus on infrastructure efficiency, security, and the elimination of **Toil** through code.
 
 ---
 
-### 📂 Projects
+### 🛠️ Technical Stack & Domain
 
-**[Logistics SLA Analysis](#)**
-* Monitoramento de tempos de entrega e identificação de gargalos operacionais.
-* *Stack:* SQL, Power BI, Data Modeling.
+**Core Engineering & Automation**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat&logo=linux&logoColor=black)
 
-**[Automated Data Pipeline (ETL)](#)**
-* Script de automação para extração de dados via API (YouTube) e estruturação de JSON para análise tabular.
-* *Stack:* Python, APIs, Pandas.
+**Cloud Infrastructure & IaC**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**[SaaS Unit Economics](#)**
-* Análise de coorte para mensuração de retenção de clientes, LTV e CAC.
-* *Stack:* Power BI, DAX, Financial Logic.
+**Orchestration & Delivery**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+**Observability & Security**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Teleport](https://img.shields.io/badge/Teleport-5C2D91?style=flat&logo=teleport&logoColor=white)
+
+---
+
+### 🔭 Engineering Labs & Tooling
+
+My repositories act as engineering labs where I build tools to solve real infrastructure problems.
+
+* **`go-sysops-toolset`**: CLI utilities written in **Golang** for Linux process management and file system operations.
+* **`linux-hardening-automation`**: Defensive Bash scripting for server security baselines and kernel tuning (Sysctl).
+* **`aws-infrastructure-tf`**: Modular **Terraform** architecture for scalable AWS VPCs, ensuring security-by-design.
+* **`k8s-ops-core`**: Production-grade **Kubernetes** cluster implementation focused on control plane operations and reliability.
 
 ---
 
-### 🎓 Education & Study Focus
-
-**B.S. Statistics** (In progress)
-* *Focus:*
-* Probability Theory
-* Statistical Inference
-* Regression Analysis.
-* Algorithms & Data Structures
-* Database Systems & Big Data Architecture
-* Machine Learning & Artificial Intelligence
-
----
-[LinkedIn](https://www.linkedin.com/in/higorcazuza/)
+<div align="left">
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
