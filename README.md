@@ -1,16 +1,15 @@
-## Hi there 👋
+# Higor Cazuza
 
-<!--
-**higorcazuza81/higorcazuza81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on Java backend systems.
 
-Here are some ideas to get you started:
+I build and maintain [Asymptora](https://github.com/Asymptora), a software engineering lab where I develop backend systems in Java and explore software design, architecture, infrastructure, and engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work is documented through code, decisions, experiments, and the evolution of the systems I build.
+
+## Projects
+
+* [asymptora](https://github.com/asymptora)
+* [katas-java](https://github.com/higorcazuza81/katas-java)
+* [Asymptora.com](https://www.asymptora.com)
+
+The work speaks for itself.
